@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gestion Contenu Local</title>
+    <link href="https://mdallavalle.github.io/ideal-dollop/feed.xml" rel="self" />
+    <link href="https://mdallavalle.github.io/ideal-dollop" />
+    <updated>2020-10-27T14:17:28+01:00</updated>
+    <author>
+        <name>mara</name>
+    </author>
+    <id>https://mdallavalle.github.io/ideal-dollop</id>
+
+    <entry>
+        <title>Pretty nice article</title>
+        <author>
+            <name>mara</name>
+        </author>
+        <link href="https://mdallavalle.github.io/ideal-dollop/pretty-nice-article/index.html"/>
+        <id>https://mdallavalle.github.io/ideal-dollop/pretty-nice-article/index.html</id>
+
+        <updated>2020-10-27T14:17:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Un autre petit pas en avant...photo persophoto perso
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Un autre petit pas en avant...</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391.jpg" data-size="1920x2560"><img loading="lazy" src="https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391-thumbnail.jpg" alt="fleur" width="720" height="960"></a>
+<figcaption>photo perso</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021.jpg" data-size="3264x1840"><img loading="lazy" src="https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021-thumbnail.jpg" alt="feuilles" width="720" height="406"></a>
+<figcaption>photo perso</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
