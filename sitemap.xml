@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/mdallavalle/ideal-dollop/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/mdallavalle/ideal-dollop/</loc>
+</url>
+<url>
+<loc>https://github.com/mdallavalle/ideal-dollop/pretty-nice-article.html</loc>
+<lastmod>2020-10-27T14:17:28+01:00</lastmod>
+<image:image>
+<image:loc>https://github.com/mdallavalle/ideal-dollop/media\posts\1/gallery/IMG_20120729_0951391-thumbnail.jpg</image:loc>
+<image:title><![CDATA[fleur]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/mdallavalle/ideal-dollop/media\posts\1/gallery/20160720_0021-thumbnail.jpg</image:loc>
+<image:title><![CDATA[feuilles]]></image:title>
+</image:image>
+</url>
+</urlset>
