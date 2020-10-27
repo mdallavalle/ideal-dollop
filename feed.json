@@ -13,15 +13,15 @@
             "id": "https://mdallavalle.github.io/ideal-dollop/pretty-nice-article/index.html",
             "url": "https://mdallavalle.github.io/ideal-dollop/pretty-nice-article/index.html",
             "title": "Pretty nice article",
-            "summary": "Un autre petit pas en avant...photo persophoto perso",
-            "content_html": "<p>Un autre petit pas en avant...</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391.jpg\" data-size=\"1920x2560\"><img loading=\"lazy\" src=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391-thumbnail.jpg\" alt=\"fleur\" width=\"720\" height=\"960\"></a>\n<figcaption>photo perso</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021.jpg\" data-size=\"3264x1840\"><img loading=\"lazy\" src=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021-thumbnail.jpg\" alt=\"feuilles\" width=\"720\" height=\"406\"></a>\n<figcaption>photo perso</figcaption>\n</figure>\n</div></div>",
+            "summary": "Un autre petit pas en avant...fleurfeuilles",
+            "content_html": "<p>Un autre petit pas en avant...</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391.jpg\" data-size=\"1920x2560\"><img loading=\"lazy\" src=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/IMG_20120729_0951391-thumbnail.jpg\" alt=\"fleur\" width=\"720\" height=\"960\"></a>\n<figcaption>fleur</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021.jpg\" data-size=\"3264x1840\"><img loading=\"lazy\" src=\"https://mdallavalle.github.io/ideal-dollop/media/posts/1/gallery/20160720_0021-thumbnail.jpg\" alt=\"feuilles\" width=\"720\" height=\"406\"></a>\n<figcaption>feuilles</figcaption>\n</figure>\n</div></div>",
             "author": {
                 "name": "mara"
             },
             "tags": [
             ],
             "date_published": "2020-10-27T14:13:48+01:00",
-            "date_modified": "2020-10-27T14:17:28+01:00"
+            "date_modified": "2020-10-27T23:09:46+01:00"
         }
     ]
 }
